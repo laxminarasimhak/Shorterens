@@ -1,5 +1,4 @@
 # pip install pyshorteners
-# pip install pyperclip
 
 import pyshorteners
 url = input('Enter the url: ')
